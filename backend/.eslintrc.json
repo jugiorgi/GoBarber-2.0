@@ -20,6 +20,7 @@
     ],
     "rules": {
       "class-methods-use-this": "off",
+      "camelcase": "off",
       "no-use-before-define": "off",
       "no-console": "off",
       "prettier/prettier": "error",
